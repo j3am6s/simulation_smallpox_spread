@@ -1,8 +1,8 @@
-# concurrent_project
+# Simulation of a disease (smallpox) spread
 
 ________
 
-Simulation of a disease (smallpox) spread based on 
+based on the paper by:
 
 Eubank, H. Guclu, V. S. A. Kumar, M. V. Marathe, A. Srinivasan, Z. Toroczkai, and N. Wang. Modelling
 disease outbreaks in realistic urban social networks. Nature, 429, 180–184, 2004
